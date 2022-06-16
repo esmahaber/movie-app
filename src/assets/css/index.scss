@@ -1,0 +1,41 @@
+@import './variables';
+@import './mixins';
+
+body {
+  margin: 0;
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
+    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
+    sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+.grid-header{
+  grid-area: header;
+}
+.grid-footer{
+  grid-area: footer;
+}
+.grid-body{
+  grid-area: body;
+}
+
+.grid-container {
+  display: grid;
+  grid-template-areas: 
+    'header header header header header header'
+    'body body body body body body'
+    'footer footer footer footer footer footer';
+
+    .grid-header{
+      @include center();
+      background-color: $primary-color;
+      height: 58px;
+    }
+    .grid-body{
+      background-color: $bg-color;
+    }
+    .grid-footer{
+      background-color: $white-color;
+    }
+}

@@ -1,7 +1,6 @@
 import { BrowserRouter, Routes, Route } from "react-router-dom";
 import Detail from "./pages/Detail";
 import Home from "./pages/Home";
-import './App.scss';
 import GridLayout from "./layouts/GridLayout";
 
 function App() {
