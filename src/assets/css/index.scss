@@ -31,11 +31,24 @@ body {
       @include center();
       background-color: $primary-color;
       height: 58px;
+      box-shadow: inset rgb(1 1 1 / 30%) -4px 26px 30px 10px;
     }
     .grid-body{
       background-color: $bg-color;
     }
     .grid-footer{
       background-color: $white-color;
+      padding: 50px;
+      .pipe{
+       margin: 5px;
+      }
+      a{
+        color:$bg-color;
+        text-decoration: none;
+        font-size: $default-font-size;
+        &:hover{
+          color: #2e98df;
+        }
+      }
     }
 }
