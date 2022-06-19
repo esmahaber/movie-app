@@ -1,5 +1,6 @@
 [
     {
+      "Id" : 1,
       "Title": "Avatar",
       "Year": "2009",
       "Rated": "PG-13",
@@ -29,34 +30,7 @@
       ]
     },
     {
-      "Title": "I Am Legend",
-      "Year": "2007",
-      "Rated": "PG-13",
-      "Released": "14 Dec 2007",
-      "Runtime": "101 min",
-      "Genre": "Drama, Horror, Sci-Fi",
-      "Director": "Francis Lawrence",
-      "Writer": "Mark Protosevich (screenplay), Akiva Goldsman (screenplay), Richard Matheson (novel), John William Corrington, Joyce Hooper Corrington",
-      "Actors": "Will Smith, Alice Braga, Charlie Tahan, Salli Richardson-Whitfield",
-      "Plot": "Years after a plague kills most of humanity and transforms the rest into monsters, the sole survivor in New York City struggles valiantly to find a cure.",
-      "Language": "English",
-      "Country": "USA",
-      "Awards": "9 wins & 21 nominations.",
-      "Poster": "https://ia.media-imdb.com/images/M/MV5BMTU4NzMyNDk1OV5BMl5BanBnXkFtZTcwOTEwMzU1MQ@@._V1_SX300.jpg",
-      "Metascore": "65",
-      "imdbRating": "7.2",
-      "imdbVotes": "533,874",
-      "imdbID": "tt0480249",
-      "Type": "movie",
-      "Response": "True",
-      "Images": [
-        "https://images-na.ssl-images-amazon.com/images/M/MV5BMTI0NTI4NjE3NV5BMl5BanBnXkFtZTYwMDA0Nzc4._V1_.jpg",
-        "https://images-na.ssl-images-amazon.com/images/M/MV5BMTIwMDg2MDU4M15BMl5BanBnXkFtZTYwMTA0Nzc4._V1_.jpg",
-        "https://images-na.ssl-images-amazon.com/images/M/MV5BMTc5MDM1OTU5OV5BMl5BanBnXkFtZTYwMjA0Nzc4._V1_.jpg",
-        "https://images-na.ssl-images-amazon.com/images/M/MV5BMTA0MTI2NjMzMzFeQTJeQWpwZ15BbWU2MDMwNDc3OA@@._V1_.jpg"
-      ]
-    },
-    {
+      "Id" : 2,
       "Title": "300",
       "Year": "2006",
       "Rated": "R",
@@ -84,6 +58,7 @@
       ]
     },
     {
+      "Id" : 3,
       "Title": "The Avengers",
       "Year": "2012",
       "Rated": "PG-13",
@@ -113,6 +88,7 @@
       ]
     },
     {
+      "Id" : 4,
       "Title": "The Wolf of Wall Street",
       "Year": "2013",
       "Rated": "R",
@@ -142,6 +118,7 @@
       ]
     },
     {
+      "Id" : 5,
       "Title": "Interstellar",
       "Year": "2014",
       "Rated": "PG-13",
@@ -171,6 +148,7 @@
       ]
     },
     {
+      "Id" : 6,
       "Title": "Game of Thrones",
       "Year": "2011–",
       "Rated": "TV-MA",
@@ -201,6 +179,7 @@
       ]
     },
     {
+      "Id" : 7,
       "Title": "Vikings",
       "Year": "2013–",
       "Rated": "TV-14",
@@ -231,6 +210,7 @@
       ]
     },
     {
+      "Id" : 8,
       "Title": "Gotham",
       "Year": "2014–",
       "Rated": "TV-14",
@@ -261,6 +241,7 @@
       ]
     },
     {
+      "Id" : 9,
       "Title": "Power",
       "Year": "2014–",
       "Rated": "TV-MA",
@@ -291,6 +272,7 @@
       ]
     },
     {
+      "Id" : 10,
       "Title": "Narcos",
       "Year": "2015–",
       "Rated": "TV-MA",
@@ -321,6 +303,7 @@
       ]
     },
     {
+      "Id" : 11,
       "Title": "Breaking Bad",
       "Year": "2008–2013",
       "Rated": "TV-14",
@@ -351,6 +334,7 @@
       ]
     },
     {
+      "Id" : 12,
       "ComingSoon": true,
       "Title": "Doctor Strange",
       "Year": "2016",
@@ -379,6 +363,7 @@
       ]
     },
     {
+      "Id" : 13,
       "ComingSoon": true,
       "Title": "Rogue One: A Star Wars Story",
       "Year": "2016",
@@ -409,6 +394,7 @@
       ]
     },
     {
+      "Id" : 14,
       "ComingSoon": true,
       "Title": "Assassin's Creed",
       "Year": "2016",
@@ -438,6 +424,7 @@
       ]
     },
     {
+      "Id" : 15,
       "ComingSoon": true,
       "Title": "Luke Cage",
       "Year": "2016–",
